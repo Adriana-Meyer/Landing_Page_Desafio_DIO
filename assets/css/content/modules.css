@@ -1,0 +1,37 @@
+.content__modules {
+    border-bottom: 1px solid #33A8DB;
+    height: 80%;
+    text-align: center;  
+    width: 100%;
+    padding-bottom: 5rem;
+}
+
+.modules__title {
+    color: #33A8DB;
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 0.19em;
+    margin: 7rem auto 3rem auto;
+}
+
+.modules__text {
+    color: #ffffff;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.188rem;
+    margin: 2.8rem 17rem;
+}
+
+.modules__description {
+    background-color: #252525;
+    border: 1px solid #33A8DB;
+    border-radius: 10rem;
+    box-shadow: inset -2px 6px 4px 0px rgba(0,0,0,0.4);
+    color: #ffffff;
+    margin: 2rem 25rem;
+    padding: 1rem 2rem;
+}
+
+.description__highlight {
+    color: #33A8DB;
+}
