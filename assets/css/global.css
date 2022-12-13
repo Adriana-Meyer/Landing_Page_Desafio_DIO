@@ -1,6 +1,6 @@
 body {
     background-color: #000000;
+    box-sizing: border-box;
     font-family: 'Raleway', sans-serif;
     font-size: 1rem;
-    box-sizing: border-box;
 }

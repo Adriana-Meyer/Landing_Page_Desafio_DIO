@@ -11,7 +11,7 @@
     font-size: 2rem;
     font-weight: 700;
     letter-spacing: 0.19em;
-    margin: 7rem auto 3rem auto;
+    margin: 8% auto 4% auto;
 }
 
 .modules__text {
@@ -19,7 +19,7 @@
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.188rem;
-    margin: 2.8rem 17rem;
+    margin: 3% 20%;
 }
 
 .modules__description {
@@ -28,7 +28,7 @@
     border-radius: 10rem;
     box-shadow: inset -2px 6px 4px 0px rgba(0,0,0,0.4);
     color: #ffffff;
-    margin: 2rem 25rem;
+    margin: 2% 30%;
     padding: 1rem 2rem;
 }
 
