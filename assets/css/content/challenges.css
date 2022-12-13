@@ -1,0 +1,22 @@
+.content__challenges {
+    border-bottom: 1px solid #33A8DB;
+    text-align: center;
+}
+
+.challenges_title {
+    color: #33A8DB;
+    font-size: 2rem;
+    font-weight: 700;
+    letter-spacing: 0.19em;
+    margin: 7rem 10rem 2rem 10rem;
+}
+
+.challenges_image {
+    margin-bottom: 1.5rem;
+}
+
+.challenges_text {
+    color: #ffffff;
+    line-height: 1.174rem;
+    margin: 2rem 20rem;
+}
